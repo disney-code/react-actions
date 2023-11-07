@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Charlene Tan
+          Learn React Charlene Tan Si JIE
         </a>
       </header>
     </div>
